@@ -43,7 +43,7 @@ Real-time Chinese speech → English speech interpreter using Whisper + LLM + TT
 
 ```bash
 # 克隆项目
-git clone https://github.com/hisakuras/simul-interpreter.git
+git clone https://github.com/Hisakuras/realtime-zh-en-interpreter.git
 cd simul-interpreter
 
 # 创建虚拟环境
